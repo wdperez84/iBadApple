@@ -1,9 +1,12 @@
-# iBadApple v0.0.1
+# iBadApple v0.1.1
+*Use however you want, **if you host it on your website**, just plug my twitter is all i ask.*
+
 First ever: Windows, **FREE** iCloud &amp; activation lock bypass... that isn't a malware!
 
 SHA-256 (Scan of the file for malware): [a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4](https://www.virustotal.com/gui/file/a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4/detection)
 
 Contact :[Twitter](https://twitter.com/ImAdderally)
+
 
 
 # How to use
@@ -30,7 +33,10 @@ Contact :[Twitter](https://twitter.com/ImAdderally)
 
 - [x] Enter Recovery
 - [x] Activate.
-- [x] Deactivate
+- [x] Deactivate.
+- [ ] Restore.
+- [ ] Custom SSH command Interface.
+- [ ] List device info.
 - [ ] Passcode Lockscreen bypass.
 - [ ] Find My .. removal.
 - [ ] Create custom SSH tunnel, so no thirdpartys are needed.
