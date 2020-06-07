@@ -1,7 +1,7 @@
 # iBadApple v0.0.1
 First ever: Windows, **FREE** iCloud &amp; activation lock bypass... that isn't a malware!
 
-SHA-256 (Scan of the file for malware): [b0399dce6a748d7d8fa1f3ba462e6280142e4f812ea7a139dfeb0f05f7f20c0f](https://www.virustotal.com/gui/file/b0399dce6a748d7d8fa1f3ba462e6280142e4f812ea7a139dfeb0f05f7f20c0f/detection)
+SHA-256 (Scan of the file for malware): [a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4](https://www.virustotal.com/gui/file/a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4/detection)
 
 Contact :[Twitter](https://twitter.com/ImAdderally)
 
@@ -16,16 +16,21 @@ Contact :[Twitter](https://twitter.com/ImAdderally)
 **Features**
 
 - Bypass setup. (Iphone 7+ and 8 may experience issues!)
+- Restore Setup.app.
 - Delete MANY iCloud related files.
 - Delete stored passwords on iOS. ( Usually just stored emails )
 - Forever disable auto updates.
 - Reboot.
 - Shutdown.
+- Reboot in safemode.
 
 
 
 **TODO**
 
+- [x] Enter Recovery
+- [x] Activate.
+- [x] Deactivate
 - [ ] Passcode Lockscreen bypass.
 - [ ] Find My .. removal.
 - [ ] Create custom SSH tunnel, so no thirdpartys are needed.
