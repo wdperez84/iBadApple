@@ -1,9 +1,9 @@
-# iBadApple v0.1.1
+# iBadApple v0.2.1
 *Use however you want, **if you host it on your website**, just plug my twitter is all i ask.*
 
 First ever: Windows, **FREE** iCloud &amp; activation lock bypass... that isn't a malware! ~ *Defender might flag it as a trojan as it does use some API calls!... It's full of shit, not a virus!*
 
-SHA-256 (Scan of the file for malware): [a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4](https://www.virustotal.com/gui/file/a3c45b889f32b1dc90ef489093a41ae2ebd370b347cd30adf30b629f0815f1d4/detection)
+SHA-256 (Scan of the file for malware): [2444f9df5bc5f7e25e26fc0bd5928ed418467ed2c372bd132cb653643f3b63db](https://www.virustotal.com/gui/file/2444f9df5bc5f7e25e26fc0bd5928ed418467ed2c372bd132cb653643f3b63db/detection)
 
 Contact :[Twitter](https://twitter.com/ImAdderally)
 
@@ -28,9 +28,11 @@ Contact :[Twitter](https://twitter.com/ImAdderally)
 - Delete MANY iCloud related files.
 - Delete stored passwords on iOS. ( Usually just stored emails )
 - Forever disable auto updates.
-- Reboot.
-- Shutdown.
-- Reboot in safemode.
+- Enter Recovery mode
+- Reboot. SSH
+- Shutdown. SSH
+- Reboot in safemode. SSH
+- Reboot, Shutdown, Sleep. Normal
 
 
 
